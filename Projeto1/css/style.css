@@ -1,0 +1,43 @@
+#header{
+    margin:0;
+}
+@font-face{
+    font-family: bubble;
+    src: url("Bubblegum.ttf");
+}
+a{
+    
+}
+#email{
+    align-self: center;
+}
+#button-main{
+    align-self: center;
+}
+
+#header-img{
+    width: auto;
+    min-width: 200px;
+}
+#header{
+    position: static;
+    background-color: black;
+}
+#video{
+    width: 100%;
+    
+}
+a.col{
+    font-size: 23px;
+    color:white;
+
+    font-family: bubble;
+}
+a.col:hover{
+    color: brown;
+    text-decoration: none;
+}
+#video{
+    width: 60%;
+    height: 500px;
+}

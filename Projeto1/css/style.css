@@ -39,7 +39,10 @@ a.col:hover{
 }
 #video{
     width: 60%;
-    height: 500px;
+    height: 370px;
+}
+.button-card{
+    
 }
 @media (max-width:770px){
     
@@ -61,5 +64,8 @@ a.col:hover{
    #video{
        width: 100%;
        height: 200px;
+   }
+   svg{
+       margin-bottom: 30px;
    }
 }

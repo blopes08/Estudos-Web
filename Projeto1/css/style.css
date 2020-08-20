@@ -47,7 +47,12 @@ a{
     #header-img{
         display: block;
         
-        margin-left: 77px;
+        margin-left: 70px;
         
+    }
+    #nav-bar{
+        align-self: center;
+        display: flex;
+        flex-direction: column;
     }
 }

@@ -10,3 +10,9 @@ pre{
     background: rgb(180, 177, 177);
     padding-top: 15px;
 }
+li{
+    list-style-type: none;
+}
+nav{
+    height: 100%;
+}
